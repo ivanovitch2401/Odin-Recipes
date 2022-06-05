@@ -1,0 +1,23 @@
+/*CSS for the mainpage*/
+* {
+    font: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 50px;
+}
+img {
+    border-width: 10px;
+    border-style:double;
+    border-color: rgb(158, 111, 50);
+}
+p {
+    font-size: 30px;
+
+}
+ul, li {
+    font-size: 25px;
+    list-style: none;
+}

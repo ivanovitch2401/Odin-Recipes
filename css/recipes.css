@@ -1,0 +1,12 @@
+* {
+    font: Verdana, Tahoma, sans-serif;
+    background-color: whitesmoke;
+}
+.header, h2 {
+    text-align: center;
+}
+.header img {
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(158, 111, 50);
+}
